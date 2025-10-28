@@ -10,8 +10,8 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "axios": "^0.21.1",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "react-fast-marquee": "^1.2.1",
     "react-helmet": "^6.1.0",
     "react-icons": "^4.2.0",
@@ -25,12 +25,7 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "cross-env NODE_OPTIONS=--openssl-legacy-provider react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "cross-env NODE_OPTIONS=--openssl-legacy-provider react-scripts start"
   },
   "eslintConfig": {
     "extends": [
@@ -52,9 +47,5 @@
   },
   "devDependencies": {
     "cross-env": "^7.0.3"
-  },
-  "scripts": {
-  "start": "cross-env NODE_OPTIONS=--openssl-legacy-provider react-scripts start"
   }
-
 }
