@@ -5,13 +5,13 @@ export const achievementData = {
     achievements : [
         {
             id : 1,
-            title : 'cuộc thi “TÌM KIẾM TÀI NĂNG VÀ SẢN PHẨM SÁNG TẠO CÔNG NGHỆ THÔNG TIN TRONG KỶ NGUYÊN SỐ"',
+            title : 'Competition "IT Talent and Creative Products in the Digital Era"',
             date : 'May - June, 2022',
             image : 'https://github.com/Nguyn1710/photo/raw/main/cuocthi.jpg'
         },
         {
             id : 2,
-            title : 'Cuộc thi “TÌM KIẾM TÀI NĂNG, LẬP TRÌNH VIÊN TRIỂN VỌNG”',
+            title : '"Talent and Promising Programmers Search Competition"',
             date : 'June, 2023',
             image : 'https://github.com/Nguyn1710/photo/raw/main/cuocthi2.png'
         },

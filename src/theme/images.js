@@ -1,4 +1,4 @@
-import blueThemegirl from '../assets/svg/about/blueTheme-girl.svg'
+import blueThemegirl from '../assets/svg/about/Theme.svg'
 import blueThemeboy from '../assets/svg/about/blueTheme-boy.svg'
 
 import eduBlue from '../assets/svg/education/eduBlue.svg'

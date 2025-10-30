@@ -2,11 +2,9 @@
     'HTML',
     'Figma',
     'CSS',
-    'Python',
     'Java',
-    'c#',
-    'C++',
-    'mysql',
+    'C#',
+    'SQL Server',
     'bootstrap',
     'git'
 ]

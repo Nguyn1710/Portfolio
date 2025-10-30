@@ -20,9 +20,9 @@ export const projectsData = [
     },
     {
         id: 2,
-        projectName: 'Form biên mục tài liệu thư viện',
-        projectDesc: 'The form for catalog management in the library helps librarians easily manage book cataloging efficiently.',
-        tags: ['C#'],
+        projectName: 'Redesign Website Portfolio',
+        projectDesc: 'Using Figma. Built layout systems, Auto Layouts, and reusable component. Created interactive prototypes',
+        tags: ['Figma'],
         code: 'https://github.com/NguyenDangTrieu/digital_library1',
         demo: 'https://github.com/NguyenDangTrieu/digital_library1',
         image: two
